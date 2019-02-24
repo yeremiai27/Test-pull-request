@@ -7,3 +7,4 @@ int main(){
   std::cout<<"senang berkenalan juga"<<std::endl;
 	return 0;
 }
+jjkjkjjkj

@@ -3,5 +3,6 @@
 int main(){
 	std::cout<<"Halo saya Bimo, Joshua"<<std::endl;
 	std::cout<<"Senang berkenalan denganmu"<<std::endl;
+	std::cout<<"senang berkenalan juga"<<std::endl;
 	return 0;
 }
